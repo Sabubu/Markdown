@@ -1,1 +1,0 @@
-Prises de notes concernant le format Markdown
